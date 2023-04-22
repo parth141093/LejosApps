@@ -8,3 +8,34 @@ some changes
 
 
 
+this code we add for robot when it detect the ditecter then crose robot from the detecter.
+
+<!-- else{
+				leftWheel.setSpeed(128);
+				rightWheel.setSpeed(300);
+				
+				try {
+					Thread.sleep(1200);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+				
+				
+				leftWheel.setSpeed(300);
+				rightWheel.setSpeed(170);
+				
+				
+				try {
+					Thread.sleep(3750);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+				
+				leftWheel.setSpeed(128);
+				rightWheel.setSpeed(300);
+				
+				try {
+					Thread.sleep(2000);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				} -->
