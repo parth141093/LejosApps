@@ -44,3 +44,6 @@ this code we add for robot when it detect the ditecter then crose robot from the
 				
 Try to dance robot at the end of complete 2 round  
 and it is working proper.
+
+
+Checking the cherry pick 1.
