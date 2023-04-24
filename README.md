@@ -44,3 +44,10 @@ this code we add for robot when it detect the ditecter then crose robot from the
 				
 Try to dance robot at the end of complete 2 round  
 and it is working proper.
+
+
+Testing For Squash Commit 1. @parth
+
+Testing For Squash Commit 2. @parth
+
+Testing For Squash Commit 3. @parth
