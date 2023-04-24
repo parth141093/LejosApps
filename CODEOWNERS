@@ -1,4 +1,7 @@
 #each lines defines files, directories and the codeowners
+
+We worked with this JAVA files in our Lejos project work.
+
 MOVEAHEAD @makzibs
 ColorDetector.java @parth141093
 DataExchange.java @hardiksavsani
