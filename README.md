@@ -51,3 +51,10 @@ Checking the cherry pick 1.
 Checking the cherry pick 2.
 
 Checking the cherry pick 3.
+
+Testing For Squash Commit 1. @parth
+
+Testing For Squash Commit 2. @parth
+
+Testing For Squash Commit 3. @parth
+
