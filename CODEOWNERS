@@ -1,6 +1,6 @@
 #each lines defines files, directories and the codeowners
 MOVEAHEAD @makzibs
 ColorDetector.java @parth141093
-DataExchange.java @parth141093 
+DataExchange.java @hardiksavsani
 GoAhead.java @parth141093
 ObstecleDetector.java @parth141093
